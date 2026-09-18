@@ -1,0 +1,1 @@
+Quick Transport is a simple transportation booking website where users can browse available options, make bookings, check their booking history, and manage payment details. The project is built using HTML, CSS, JavaScript, PHP, and MySQL to handle the frontend, user interactions, and backend functionality.
